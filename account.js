@@ -16,7 +16,7 @@ var telegram_group_link = "telegram group link";
 // =======================================================
 // YOUTUBE CHANNEL LINK
 // =======================================================
-var youtube_channel_link = "www.youtube.com/@flohyper";
+var youtube_channel_link = " www.youtube.com/@flohyper ";
 
 // =======================================================
 // NOTIFICATION TEXT
